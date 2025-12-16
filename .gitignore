@@ -1,0 +1,5 @@
+executar.bat 
+ececultar .bat.txt
+.venv/
+.ipynb_checkpoints/
+executar .bat.txt
